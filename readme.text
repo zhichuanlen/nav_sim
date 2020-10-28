@@ -1,0 +1,7 @@
+SLAM 
+	SLAM.launch  gmapping.launch
+
+navigation
+	
+	navigation.launch move_base.launch
+
